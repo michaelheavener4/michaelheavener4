@@ -17,4 +17,4 @@ My work here is mainly in Python, Shell, and Lua.
 - Website: [heavener.co](https://heavener.co)
 - Repositories: [github.com/michaelheavener4?tab=repositories](https://github.com/michaelheavener4?tab=repositories)
 - Contact: michael@heavener.co
-- LinkedIn: https://www.linkedin.com/in/michael-heavener-53284537a/
+- LinkedIn: https://www.linkedin.com/in/michael-heavener-sacramento/
